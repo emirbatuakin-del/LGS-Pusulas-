@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Pusula: LGS Koçu ve Lise Tercih Rehberi",
+  "short_name": "Pusula",
+  "description": "LGS koçu, günlük ödev ve eksik konu programı, net-puan hesabı, LGS ve OBP lise tercih rehberi.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "./?kaynak=uygulama",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8f9",
+  "theme_color": "#c9304f",
+  "categories": ["education", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
